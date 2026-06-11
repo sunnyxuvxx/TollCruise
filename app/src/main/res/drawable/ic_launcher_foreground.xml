@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer technical accents -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M38,22 L26,22 L26,86 L38,86 M70,22 L82,22 L82,86 L70,86" />
+
+    <!-- Code Bracket Left "<" -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M40,42 L30,54 L40,66" />
+
+    <!-- Code Bracket Right ">" -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M68,42 L78,54 L68,66" />
+
+    <!-- Tool Hammer/Wrench Representation / Diagonal slash -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M59,36 L49,72" />
+
+    <!-- Central active node -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,54m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+</vector>

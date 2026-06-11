@@ -1,0 +1,8 @@
+{
+  "name": "ToolCruise",
+  "description": "A feature-rich offline developer utility suite with formatters, converters, text analyzers, and secure generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
